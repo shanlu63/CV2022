@@ -20,39 +20,83 @@ career:
    company: laboratoire de recherche dans l’Université Paris Nanterre, Nanterre
    location: Pairs, France
    dates: 09 2022 - current
-   summary: Études sur le projet VITAL du avec le professeur Alain Guez Dans le laboratoire Mosaïques.. well, pretty much everything. He's also extremely creative. He has a thousand ideas, and every now and then, one of them will be brilliant. This combination of creativity and lack of focus gives him a kind of flow that the other Turtles cannot match. He's a social mutant and more than the others, pines to be part of the real world.
-  
- - position: Shredder enemy
-   company: TMNT
-   location: New York, USA
-   dates: October 2012 – September 2014
-   summary: Impulsive, creative and very social, Michelangelo is the heart and soul of the Ninja Turtles. The runt of the litter, he may be the smallest of his mutant brothers, but that doesn't make him the weakest (just harder to catch). Enemies beware! Michelangelo is a master of the Kusarigama, nunchucks with a secret and sharp surprise!
-   accomplishments:
-    - accomplishment: Mikey's skills as a skateboarder and a ninja give him a great ability with balance.
-    - accomplishment: He has the normal ability of a turtle to go into his shell.
+   summary: Études sur le projet VITAL du avec le professeur Alain Guez Dans le laboratoire Mosaïques.
+ - position: Stagiaire
+   company: développement commercial dans la mairie Saint-Denis, Île-de-France
+   location: Saint-Denis, Île-de-France
+   dates: 04 2022 - 08 2022
+   summary: 
+    •	Réalisation d'un diagnostic foncier se matérialisant par une base de données et exploitation de la base de données via la passerelle de données Cart@DS et le logiciel Acropole QGIS.
+    •	Analyse des extractions de données et travail de collecte de données sur le terrain
+    •	Réalisation de cartographies et proposition des stratégies pour le développement commercial
+    •	Réaménagement le marché et analyse du projet VRD 
+ - position: Rechercheur
+   company: Atelier du l’habitat et santé, Centre Recherche de l’Habitat,
+   location:  Paris, Île-de-France
+   dates: 01 2022 - 04 2022
+   summary: 
+    •	L’entretien avec les habitats dans XIIIe arrondissement
+    •	Analyse des influencées de la santé par les logements pendant la période de confinement
+    •	Élaboration des transcriptions et rédigent des synthèses
+ - position: Rechercheur
+   company: Atelier du l’habitat et santé, Centre Recherche de l’Habitat,
+   location:  Paris, Île-de-France
+   dates: 01 2022 - 04 2022
+   summary: 
+    •	L’entretien avec les habitats dans XIIIe arrondissement
+    •	Analyse des influencées de la santé par les logements pendant la période de confinement
+    •	Élaboration des transcriptions et rédigent des synthèses
+ - position: Stagiaire
+   company: la société MY DECO
+   location:  Paris, Île-de-France
+   dates: 06 2022 - 10 2022
+   summary: 
+    •	Rédige et déposes les demandes de la décoloration préalable travaux et le permis de construction
+    •	Aménage le plan de la masse du projet immobilier
+    •	Charge du projet VRD et étude le prix de projet
+ - position: Urbaniste responsable de projet urbanisme
+   company:  Académie Chinoise de l’Urbanisme et du dessin
+   location:   Chine
+   dates: 2013 - 2018
+   summary: 
+    •	Analyse et monographie du projet urbain de métropole et du projet VRD pour la rénovation
+    •	Études sur les stratégies de développement d'une ville de 1,5 millions d’habitants 
+    •	Management d’une équipe de 4 assistants
+    •	Coopération avec le groupe international dans un concours de planification de CBD en chine
+    •	Études sur les conditions de vie, la production et le mode de vie en milieu rural
+    •	Proposition d’un mode de construction
+ - position: Urbaniste 
+   company:   Académie Chinoise de l’Urbanisme et du Dessin, Chongqing
+   location:   Chine
+   dates: 2010 - 2013
+   summary: 
+    •	Études sur la direction d'expansion de l'espace urbain d’une ville
+    •	Amélioration du cadre de développement urbain, Conception aménagement d’important routes urbaines
+
+
+
+ 
 
 technicalSkills:
   list:
-    - tr: "Impulsive, creative and very social"
-    - tr: "Heart and soul of the Ninja Turtles"
-    - tr: "Master of the Kusarigama and nunchucks"
-    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
-    - tr: "First of the turtles to taste pizza"
-    - tr: "Very proud of his talent for naming thing"
+    - tr: Langues Mandarin, Français, Anglais,
+    - tr: QGIS+SQL, PYTHON, CAD(BIM), Photoshop, InDesign, Sketch Up(3D), Excel, Power point,
+    - tr: Permit B, Programmation informatique,3D maquette 
+   
   backend:
-   - name: Ninjutsu
+   - name: Français,Mandarin,
      level: 90
-   - name: Kusarigama
+   - name: Anglais
      level: 80
   frontend:
-   - name: Cooking Skills
+   - name: CAD, BIM, ADOBE,Sketch Up(3D), Excel
      level: 80
-   - name: Pranks
+   - name: Excel, Power point,
      level: 90
   other:
-   - name: Shadow Puppet Skill
+   - name: Permit B, Programmation informatique
      level: 90
-   - name: Teaching
+   - name: 3D maquette 
      level: 100
 
 sideProjects:
@@ -69,8 +113,18 @@ sideProjects:
     langs: AngularJS/HTML/CSS/Bootstrap
 
 education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
-    dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
+  - name:  Université Paris Nanterre
+    degree: Master Urbanisme et aménagement,Master Urbanisme et aménagement
+    dates: 2020– 2022
+ - name:  CNAM Paris
+    degree: Master Droit, Économie, Gestion mention Urbanisme et aménagement
+    dates: 2019 - 2021
+     - name:  Université Paris Nanterre
+    degree: Master Urbanisme et aménagement,Master Urbanisme et aménagement
+    dates: 2020– 2022
+ - name:  Université de Guilin ingénierie en Chine  
+    degree: Master d’ingénierie civile
+    dates: 2007 – 2010
+ - name:  Université de Chang An en Chine
+    degree:  Licence d’ingénierie civile,
+    dates: 2002 - 2007
